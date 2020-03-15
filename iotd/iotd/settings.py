@@ -25,7 +25,7 @@ SECRET_KEY = '@c)^8^c$^(q+cbflf%nf8wu7-fgj051(bmv6at+5l(f6d#=0iz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['iotd-dev.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
